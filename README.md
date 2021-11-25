@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Aléxi - AKA Jeronismo02 👋
+### Hi there, I'm Aléxi - AKA Jeronismo02 🦊
 
 ## I'm a passionate Developer !
 
