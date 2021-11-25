@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Aléxi - AKA Jeronismo02 👋
+
+## I'm a passionate Developer !
+
+- 🔭 I'm currently developing websites
+- 🌱 I'm currently learning Symfony and its specificities
+- ✨ I am interested in development, but also in trading, crypto assets and new technologies
 
 <!--
 **Jeronismo02/Jeronismo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
