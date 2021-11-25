@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I'm a passionate Developer !
 
 - 🔭 I'm currently developing websites
-- 🌱 I'm currently learning Symfony and its specificities
+- 🌱 I'm currently mainly working on Symfony apps
 - ✨ I am interested in development, but also in trading, crypto assets and new technologies
 - ⚡ Fun fact: I love cars, computers, video-games and I'm thirsty for knowledge
 
