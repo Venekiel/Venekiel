@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Visual Studio Code" height="26px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-        code&logoColor=white" />
 
 <br/>
+<br/>
 
 #### - Languages, Frameworks and Packages :
 <img align="left" alt="Symfony" height="26px" src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" />
@@ -41,6 +42,7 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS3" height="26px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="Bootstrap 4" height="26px" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
+<br/>
 <br/>
 
 #### - Databases :
